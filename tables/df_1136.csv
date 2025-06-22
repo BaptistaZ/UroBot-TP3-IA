@@ -1,52 +1,14 @@
-0,1,2,3
-Table 4: Most used parameters to measure detrusor contraction in female patients,,,
-Parameter,Basis,Population,Values
-Watt’s factor [469],"Hill equation of muscle 
-contraction in a spherical 
-organ, with fixed 
-constants obtained from 
-experimental and clinical 
-studies","Eight asymptomatic 
-female volunteers aged 
-28–45 years (median 34 
-years)","Ideal voiding (bell-shaped flow 
-curves): WFmax 11-24 W/m2
-Non-ideal voiding: WFmax  
-5−10 W/m2
-Normally WFmax > 7 W/m2 
-(expert opinion, unspecified 
-population) [474]"
-"Projected isovolumetric 
-pressure (cm H2O) and 
-BCI, using PIP as an 
-index [470, 475]","Bladder output relation, 
-simplified to a straight line 
-with fixed slope of  
-5 cm H2O/mL/s (formula: 
-PdetQmax + 5xQmax)","Unspecified population, 
-mainly men with BPO","Classification based on expert 
-opinion:
-> 150: strong contraction
-100–150: normal contraction
-50–100: weak contraction
-< 50: very weak contraction"
-"Projected isovolumetric 
-pressure 1 (cm H2O) 
-[471]","Comparison of Qmax and 
-PdetQmax values with stop 
-test results
-(Formula: pdetQmax + Qmax)","100 women with UUI 
-aged 53–89 (mean 70) 
-years","5th-95th percentile: 29–78 cm 
-H2O
-Mean: 49 cm H2O
-Median: 48 cm H2O
-Proposed typical values: 
-30-75 cm H2O"
-"Continuous occlusion 
-test [472]","Direct measurement of 
-isovolumetric voiding 
-contraction","70 women with UUI 
-aged 53–89 (mean: 70) 
-years","Mean ± SD: 48.7 ± 24.4 cm 
-H2O"
+0,1,2,3,4,5
+Table 11.2: Post-urethroplasty changes in IPSS values,,,,,
+Author,N,Mean pre- operative value,Mean post- operative value,Change,Significancy
+Morey AF et al.  1998 [578],50,26.9,4.4,NR,p < 0.0001
+DeLong J et al.  2013 [575],110,NR,NR,-11 (IQR -19 - -5),p < 0.001
+Maciejewski CC et al.  2017 [565],94,18.7 (+/- 9),5.8 (+/- 5),NR,p < 0.0001
+Summary of evidence,LE,,,,
+Retrograde urethrography and urethrocystoscopy are able to identify anatomical success after a  urethroplasty.,2a,,,,
+A significant gap was demonstrated between objective and subjective outcomes after urethroplasties.  PROM questionnaires are specific tools to assess subjective outcomes and patient satisfaction after  urethroplasty surgeries.,2a,,,,
+Validated questionnaires proved useful to assess the consequences of urethral surgery on sexual function.,2a,,,,
+Recommendations,Strength rating,,,,
+Use cystoscopy or retrograde urethrography to assess anatomic success after urethroplasty  surgery.,Weak,,,,
+Use PROM questionnaires to assess subjective outcomes and patient satisfaction.,Strong,,,,
+Use validated questionnaires to evaluate sexual function after urethral stricture surgeries.,Strong,,,,

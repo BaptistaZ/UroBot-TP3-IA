@@ -1,12 +1,11 @@
-0,1
-"5.3.2.5	
-Diode laser enucleation of the prostate
-Mechanism of action: For prostate surgery, diode lasers with a wavelength of 940, 980, 1,318, and 1,470 nm 
-(depending on the semiconductor used) are marketed for vaporisation and enucleation. Only a few have been 
-evaluated in clinical trials [385].",
-Summary of evidence,LE
-"Laser enucleation of the prostate using the 1,318 nm or 1,470 laser showed comparable short-term 
-efficacy and safety to B-TURP. Peri-operative parameters like blood loss, catheterisation time and 
-hospital stay are in favour of diode enucleation.",1b
-"Laser enucleation of the prostate using the 980 nm laser showed comparable short-term efficacy and 
-safety to bipolar transurethral (plasmakinetic) enucleation.",1b
+0,1,2
+Table 6.2:   Impact of pre-intra- and post-operative factors on morbidity following radical inguinal lymph,,
+Positive impact,Negative impact,Uncertain benefit
+"Linear transverse incision [226, 227]","S-shaped incision, vertical  incision [217, 226, 228]",Vacuum dressings [229]
+"Saphenous sparing [227, 230, 231]",Time-controlled drainage [232],Fibrin glue [233]
+Volume-controlled drainage [232],Ultrasonic device [234],Advanced bipolar device  [235]
+Fascial sparing [207],Sartorius transposition [219],
+Minimally-invasive techniques [236-238],Raised BMI [219],
+"Lymphoedema prevention, e.g., massage, skin  care, saphenous vein-sparing surgery [227, 239]",Increased disease burden [115],
+Deep venous thrombosis prophylaxis [240],Sarcopenia [220],
+"Prevention of surgical site infections, e.g.,  prophylactic antibiotics, shaving, skin prep [241]",,

@@ -156,8 +156,8 @@ def main():
     config = {"separator": " | ",
               "chunk_threshold": 1000,
               "markdown_tables": True,
-              "filter_toc_refs": True,
-              "dataframe_loc": None}
+              "filter_toc_refs": False,
+              "dataframe_loc": "tables"}
 
     client = chromadb.PersistentClient(path=CHROMA_DATA_PATH)
 
@@ -171,7 +171,7 @@ def main():
     except:
         collection = client.get_collection(name=COLLECTION_NAME, embedding_function=embedding_func)
 
-    pdf_dir = "D:\\Development\\UroGPT\\resources"
+    pdf_dir = "resources"
 
     pdf_dir2database(pdf_dir, collection, config=config)
     remove_duplicate_or_unwanted_header(config["dataframe_loc"])

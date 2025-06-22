@@ -1,37 +1,10 @@
-0,1,2,3,4,5,6,7
-Table 4: Procedure-specific evidence summaries with recommendations for radical cystectomies,,,,,,,
-Procedure,Outcome,"Baseline risk 
-among 1000 
-patients",,"Net benefit per 
-1000 patients 
-with pharma-
-cological 
-prophylaxis*","Certainty 
-in 
-estimate","Recommendations 
-for
-pharma cological  
-prophylaxis","Recommendations
-for mechanical 
-prophylaxis"
-"Cystectomy, 
-Open","Venous 
-thrombo-
-embolism",Low-risk,29,13,Moderate,"Strong, for","Weak, for"
-,,"Medium- 
-risk",58,27,High,"Strong, for","Weak, for"
-,,High risk,116,56,High,"Strong, for","Weak, for"
-,"Bleeding
-requiring 
-reoperation",,3.0,,"Moderate/
-High",,
-"Cystectomy, 
-Robotic","Venous
-thrombo-
-embolism",Low-risk,26,11,Low,"Weak, for","Weak, for"
-,,"Medium-
-risk",52,24,Low,"Weak, for","Weak, for"
-,,High risk,103,50,Low,"Weak, for","Weak, for"
-,"Bleeding
-requiring 
-reoperation",,3.0,,Low,,
+0,1,2
+3.16.5	 Summary of evidence and recommendations for the management of obstructive pathology of  renal duplication: ureterocele and ectopic ureter,,
+Recommendations,LE,Strength rating
+Diagnose posterior urethral valves (PUV) initially by ultrasound but a voiding  cystourethrogram (VCUG) is required to confirm the diagnosis.,3,Strong
+Assess split renal function by dimercaptosuccinic acid scan or  mercaptoacetyltriglycine (MAG3) clearance. Use serum creatinine as a prognostic  marker.,-,Strong
+Vesico-amniotic shunt antenatally is not recommended to improve renal outcome.,1b,Weak
+Offer endoscopic valve ablation after bladder drainage and stabilisation of the child.,3,Strong
+Offer suprapubic diversion for bladder drainage if the child is too small for valve  ablation.,-,Strong
+Offer a high urinary diversion if bladder drainage is insufficient to drain the upper  urinary tract and the child remains unstable.,-,Strong
+"Monitor bladder and renal function life-long, in all patients.",3,Strong

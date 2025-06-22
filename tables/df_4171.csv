@@ -1,30 +1,57 @@
-0,1
-"3.15.5	
-Summary of evidence and recommendations for the diagnosis and treatment of GUTB",
-Summary of evidence,LE
-"The outcome of clinical UTI was reported in four out of eleven RCTs with no benefit found for antibiotic 
-prophylaxis vs. placebo in patients following filling and voiding cystometry.",1b
-"A meta-analysis of five trials of moderate quality showed a benefit for using antibiotic prophylaxis for 
-the reduction of symptomatic UTI in patients undergoing cystoscopy. However, this benefit was not 
-seen if only the two trials with low risk of bias were used in the meta-analysis.",1a
-"Two meta-analyses found no benefit for antibiotic prophylaxis following ESWL in terms of reducing the 
-rate of post-procedural fever and bacteriuria or trial-defined infection in patients without bacteriuria.",1a
-"Two meta-analyses found no evidence of benefit for antibiotic prophylaxis prior to ureteroscopy in 
-reducing the rate of clinical UTI; however, the rate of bacteriuria was reduced.",1a
-"A meta-analysis of five RCTs demonstrated a moderate level of evidence that antibiotic prophylaxis was 
-associated with a statistically significant reduction in the risk of post-procedural UTI following PNL.",1a
-"Two RCTs concluded that a single dose of a suitable agent was adequate for prophylaxis against 
-clinical infection after PNL.",1b
-"A systematic review of 39 RCTs concluded that antibiotic prophylaxis reduced the rate of infectious 
-complications in men undergoing TURP.",1b
-"A systematic review of two RCTs found no benefit for antibiotic prophylaxis in patients undergoing 
-TURB.",1b
-"A meta-analysis of eight studies including 1,596 patients showed significantly reduced infectious 
-complications in patients undergoing transperineal biopsy as compared to transrectal biopsy.",1a
-"A meta-analysis of eight non-RCTS reported comparable rates of post-biopsy infections in patients 
-undergoing transperineal biopsy irrespective if antibiotic prophylaxis was given or not.",1a
-"A meta-analysis of eleven RCTs including 2,036 men showed that use of a rectal povidone-iodine 
-preparation before transrectal biopsy, in addition to antimicrobial prophylaxis, resulted in a significantly 
-lower rate of infectious complications.",1a
-"A meta-analysis on eleven studies with 1,753 patients showed significantly reduced infections after 
-transrectal biopsy when using antimicrobial prophylaxis as compared to placebo/control.",1a
+"Table 3.1 World Health Organization classification of renal tumours 2022 [23, 24]",
+WHO classification of renal tumours 2022,
+1.   Renal Cell Tumours,
+01.I  Clear cell renal tumours,
+Clear cell RCC Multilocular cystic renal neoplasm of low malignant potential,
+,
+01.II  Papillary renal tumours,
+Papillary adenoma Papillary RCC,
+,
+01.III  Oncocytic and chromophobe renal tumours,
+Oncocytoma of the kidney Chromophobe RCC Other oncocytic tumours of the kidney,
+,
+,
+01.IV  Collecting duct tumours,
+Collecting duct carcinoma,
+01.V  Other renal tumours,
+,Clear cell papillary renal cell tumour
+,Mucinous tubular and spindle cell carcinoma
+,Tubulocystic RCC
+,Acquired cystic disease-associated RCC
+,Eosinophilic solid and cystic (ESC) RCC
+,RCC NOS (Not Otherwise Specified)
+01.VI  Molecularly defined renal tumours,
+,TFE3-rearranged RCCs
+,TFEB-altered RCC (TFEB-rearranged RCC and TFEB amplified RCC)
+,ELOC (formerly TCEB1)-mutated RCC
+,Fumarate hydratase-deficient RCC
+,Succinate dehydrogenase-deficient RCC
+,ALK-rearranged RCCs
+,SMARCB1-deficient renal medullary carcinoma
+2.   Metanephric tumours,
+Metanephric adenoma Metanephric adenofibroma,
+,
+Metanephric stromal tumour,
+3.   Mixed epithelial and stromal tumour family,
+Mixed epithelial and stromal tumour,
+Adult cystic nephroma,
+4.   Renal mesenchymal tumours,
+04.I  Adult renal mesenchymal tumours,
+,Classic angiomyolipoma/PEComa of the kidney
+,Epitheloid angiomyolipoma/epithelioid PEComa of the kidney
+,Renal haemangioblastoma
+,Juxtaglomerular cell tumour
+,Renomedullary interstitial cell tumour
+04.II  Paediatric renal mesenchymal tumours,
+Ossifying renal tumour of infancy  Congenial mesoblastic nephroma Rhabdoid tumour of kidney,
+,
+,
+Clear cell sarcoma of kidney,
+5.   Embryonal neoplasms of the kidney,
+Nephroblastic tumours,
+Nephrogenic rests Paediatric cystic nephroma Cystic partially differentiated nephroblastoma,
+,
+,
+Nephroblastoma,
+6.   Miscellaneous tumours,
+Germ cell tumours of the kidney,

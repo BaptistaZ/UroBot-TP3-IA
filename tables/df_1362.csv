@@ -1,13 +1,11 @@
-0,1
-"5.3.5.2	
-Intra-prostatic injections
-Mechanism of action: Various substances have been injected directly into the prostate in order to improve 
-LUTS including Botulinum toxin-A (BoNT-A), fexapotide triflutate (NX-1207) and PRX302. The primary 
-mechanism of action of BoNT-A is through the inhibition of neurotransmitter release from cholinergic neurons 
-[525]. The mechanisms of action for the injectables NX-1207 and PRX302 are not completely understood, but 
-experimental data suggest apoptosis-induced atrophy of the prostate with both drugs [525].",
-Summary of evidence,LE
-"Results from clinical trials have shown no clinical benefits for BoNT-A compared to placebo for the 
-management of LUTS due to BPO.",1a
-"Results from clinical trials have shown clinical benefits for NX-1207 compared to placebo for the 
-management of LUTS due to BPO.",1b
+0,1,2,3,4
+Table 7.1:  Follow-up regime for penile cancer,,,,
+Interval of surveillance Examinations and investigations Minimum duration  of follow-up,,,,
+Years 1–2 Years 3–5,,,,
+Recommendations for follow-up of the primary tumour,,,,
+5 years Penile-preserving  3-monthly 6-monthly Regular physician or self-examination.  treatment Repeat biopsy after topical or laser  treatment for PeIN (optional).,,,,
+Amputation 3-monthly Annually Regular physician or  self-examination. 5 years,,,,
+Recommendations for follow-up of the inguinal lymph nodes,,,,
+Surveillance,3-monthly,6-monthly,Regular physician or self-examination.  US ± FNAC optional.,5 years
+pN0,3-monthly,Annually,Regular physician or self-examination.  US ± FNAC optional.,5 years
+pN+,3-monthly,6-monthly,"Regular physician or self-examination. US ± FNAC, CT chest/abdomen/pelvis  or 18FDG-PET/CT optional.",5 years

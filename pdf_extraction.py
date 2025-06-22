@@ -61,7 +61,7 @@ def extract_text_with_page_numbers(pdf_path, config):
     current_page = 1  # Start from the first page
 
     for page_layout in extract_pages(pdf_path):
-        if page_layout.pageid in pages or pages is None:
+        if pages is None or page_layout.pageid in pages:
             for element in page_layout:
                 if isinstance(element, LTTextContainer):
                     text = element.get_text()
@@ -378,35 +378,43 @@ def get_relevant_pages(pdf_path):
 
 def extract_tables_and_captions_with_pdfminer(pdf_path, config):
     captions = find_captions_with_locations(pdf_path)
-    tables = camelot.read_pdf(pdf_path, pages='all', flavor='lattice')
 
+    # ── 1. Tentar extrair tabelas ────────────────────────────────────────────────
+    try:
+        tables = camelot.read_pdf(pdf_path, pages="all", flavor="lattice")
+    except Exception as e:
+        print(f"[WARN] Camelot falhou em {pdf_path}: {e}")
+        tables = []  # segue sem tabelas
+
+    # ── 2. Associar legendas e pós-processar ─────────────────────────────────────
     caption_table_pairs = associate_captions_with_tables(captions, tables)
-    merged = merge_dataframes_with_same_caption(caption_table_pairs)
-    captioned_tables = add_captions_as_rows(merged)
+    merged             = merge_dataframes_with_same_caption(caption_table_pairs)
+    captioned_tables   = add_captions_as_rows(merged)
 
-    evidence_recommendations_tables = extract_and_filter_tables_with_captions(pdf_path, tables)
-    evidence_recommendations_tables = add_captions_as_rows(evidence_recommendations_tables)
+    evidence_recommendations_tables = extract_and_filter_tables_with_captions(
+        pdf_path, tables
+    )
+    evidence_recommendations_tables = add_captions_as_rows(
+        evidence_recommendations_tables
+    )
 
-    cleaned_tables = []
-    table_text = []
-    dfs = []
-    if config["markdown_tables"]:
-        evidence_recommendations_tables = [(dataframe_to_markdown(df), df) for df in evidence_recommendations_tables]
-        captioned_tables_md = [(dataframe_to_markdown(df), df) for df in captioned_tables]
+    # ── 3. Converter para texto/Markdown e recolher DataFrames ──────────────────
+    table_text, dfs = [], []
 
-        table_text += [t[0] for t in evidence_recommendations_tables]
-        dfs += [t[1] for t in evidence_recommendations_tables]
+    if config.get("markdown_tables", True):
+        # tabelas-chave em Markdown
+        table_text += [dataframe_to_markdown(df) for df in evidence_recommendations_tables]
+        dfs        += evidence_recommendations_tables
 
-        table_text += [t[0] for t in captioned_tables_md]
-        dfs += [t[1] for t in captioned_tables_md]
-
+        table_text += [dataframe_to_markdown(df) for df in captioned_tables]
+        dfs        += captioned_tables
     else:
-        for df in evidence_recommendations_tables:
-            cleaned_tables.append(prepare_all_text_data(df, separator=config["separator"], clean=False))
-
-        for df in captioned_tables:
-            cleaned_tables.append(prepare_all_text_data(df, separator=config["separator"], clean=False))
-        for table in cleaned_tables:
-            table_text.append(aggregate_table_to_text(table))
+        cleaned_tables = [
+            prepare_all_text_data(df, separator=config["separator"], clean=False)
+            for df in evidence_recommendations_tables + captioned_tables
+        ]
+        table_text = [aggregate_table_to_text(t) for t in cleaned_tables]
+        dfs        = evidence_recommendations_tables + captioned_tables
 
     return table_text, dfs
+

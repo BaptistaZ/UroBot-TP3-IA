@@ -1,34 +1,24 @@
-0,1
-4.1.4.3.4.4 Summary of evidence and recommendations for cystoplasty/urinary diversion,
-Summary of evidence,LE
-"There is limited evidence of the effectiveness of augmentation cystoplasty and urinary diversion 
-specifically for treatment of idiopathic OAB or UUI.",3
-"Augmentation cystoplasty and urinary diversion are associated with high risks of short- and long-term 
-severe complications.",3
-The need to perform CISC following augmentation cystoplasty is common.,3
-"There is no evidence comparing the efficacy or adverse effects of augmentation cystoplasty to urinary 
-diversion.",3
-Recommendations,Strength rating
-"Ensure patient counselling and life-long support both prior to and after major surgery as a 
-treatment for overactive bladder (OAB) is provided by a specialist nurse or equivalent health 
-care provider.",Strong
-"Offer augmentation cystoplasty to patients with OAB/urge urinary incontinence (UUI) 
-who have failed all other treatment options and have been informed about all possible 
-complications.",Weak
-"Inform patients undergoing augmentation cystoplasty of the high risk of clean intermittent 
-self-catheterisation (ensure they are willing and able to do so) and that they will need life-
-long surveillance.",Strong
-Do not offer detrusor myectomy as a treatment for UUI.,Weak
-"Only offer urinary diversion to patients who have failed less-invasive therapies for the 
-treatment of OAB/UUI, who will accept a stoma and have been warned about the possible 
-small risk of malignancy.",Weak
-Recommendations,Strength rating
-"Offer early follow-up to women who have been commenced on anticholinergic or beta-3 
-agonist therapy.",Strong
-"Offer repeat injections of onabotulinumtoxinA, as required, to women in whom it has been 
-effective (refer to the manufacturer’s guidance regarding the minimum timeframe for repeat 
-injections).",Strong
-"Offer life-long surveillance to women who have a sacral nerve stimulation implant to monitor 
-for lead displacement, malfunction, and battery wear.",Strong
-"Offer cystoscopic surveillance to women with an augmentation cystoplasty due to the small 
-risk of malignancy.",Weak
+0,1,2,3,4,5
+Table 6.2: Predictors for urethral patency after direct vision internal urethrotomy,,,,,
+Author,Location,Length,Calibre,Multiplicity,Prior DVIU
+Steenkamp et al.  [196] / Heyns [209],"RR for recurrence  penile vs. bulbar:  1.85 (95% CI: 0.94 to  3.67, p = 0.077)",< 2 cm: 60%  (@12 months),NR,NR,None: 50-60%   (@48 months)
+,-,2-4 cm: 50%  (@12m),-,-,1: 0-40% (@48 months)
+,-,> 4 cm: 20%  (@12 months),-,-,2: 0% (@24 months)
+Al Taweel et al. [200],Bulbar: 11%,< 1 cm: 27%,NR,NR,0: 12.1%
+,Penile: 0%,1-2 cm: 0%,-,-,1: 7.9%
+,Penobulbar: 0%,> 2 cm: 0%,-,-,> 1: 0%
+Barbagli et al. [199],NA,1-2 cm: 71%  (@60 months),pQmax  < 5 ml/s: 31%,NA,0: 62%
+,-,2-3 cm: 51% (@60 months),pQmax  5-8 ml/s: 53%,-,1: 37%
+,-,3-4 cm: 39% (@60 months),pQmax  > 8 ml/s: 83%,-,-
+Kluth et al. [198],Location no predictor,NR,pQmax no  predictor,NR,0: 60%
+,-,-,-,-,> 1: 39%
+Pal et al. [201],NA,< 1 cm: 45%,NR,Single: 35%,0: 30%
+,-,1-1.5 cm: 0%,-,Multiple: 0%,1: 23%
+,-,> 1.5 cm: 0%,-,-,2: 13%
+Launonen [202],Bulbar: 76%*,< 2 cm: 83%*,NR,NR,0: 26%
+,Penile: 71%*,> 2 cm: 0%*,-,-,1: 33%
+,-,-,-,-,2: 26%
+,-,-,-,-,3: 11%
+,-,-,-,-,4: 0%
+Redon-Galvez [203],NR,< 1 cm: 71%,NR,NR,NR
+,-,> 1 cm: 25%,-,-,-

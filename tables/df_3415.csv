@@ -1,87 +1,16 @@
-0,1,2,3,4,5,6,7
-Table 6:  Procedure-specific evidence summaries with recommendations for kidney procedures for,,,,,,,
-Procedure,Outcome,"Baseline risk 
-among 1000 
-patients",,"Net benefit per 
-1000 patients 
-with pharma-
-cological 
-prophylaxis*","Certainty 
-in 
-estimate","Recommendations 
-for pharma-
-cological 
-prophylaxis","Recommendations 
-for mechanical 
-prophylaxis"
-"Nephrectomy, 
-Laparoscopic 
-partial","Venous 
-thrombo-
-embolism",Low-risk,11,-3.4,Low,Weak - against,Weak – for
-,,Medium-risk,21,1.6,Low,Weak - against,Weak – for
-,,High-risk,42,12,Moderate,Strong - for,Weak - for
-,"Bleeding 
-requiring 
-reoperation",,17,,"Low/
-Moderate",,
-"Nephrectomy, 
-Open partial","Venous 
-thrombo-
-embolism",Low-risk,10,4.5,Very low,Weak - for,Weak – for
-,,Medium-risk,20,9.5,Very low,Weak - for,Weak – for
-,,High-risk,39,19,Very low,Weak - for,Weak - for
-,"Bleeding 
-requiring 
-reoperation",,1.0,,Moderate,,
-"Nephrectomy- 
-Robotic 
-partial","Venous 
-thrombo-
-embolism",Low-risk,10,2.4,Moderate,Weak - against,Weak – for
-,,Medium-risk,19,6.9,Moderate,Weak - for,Weak – for
-,,High-risk,39,17,"high-
-quality",Strong - for,Weak - for
-,"Bleeding 
-requiring 
-reoperation",,5.0,,Moderate,,
-"Nephrectomy, 
-Laparoscopic 
-radical","Venous 
-thrombo-
-embolism",Low-risk,7.0,0.9,Very low,Weak - against,Weak – for
-,,Medium-risk,13,3.9,Very low,Weak - against,Weak – for
-,,High-risk,26,10,Very low,Weak - for,Weak - for
-,"Bleeding 
-requiring 
-reoperation",,5.0,,Very low,,
-"Nephrectomy, 
-Open radical","Venous 
-thrombo-
-embolism",Low-risk,11,5.2,Low,Weak - for,Weak – for
-,,Medium-risk,22,11,Low,Weak - for,Weak – for
-,,High-risk,44,22,Low,Weak - for,Weak - for
-,"Bleeding 
-requiring 
-reoperation",,0.5,,Very low,,
-"Radical 
-nephrec-
-tomy with 
-thrombec-
-tomy","Venous 
-thrombo-
-embolism",Low-risk,29,4.0,Very low,Weak - for,Weak - for
-,,Medium-risk,58,19,Very low,Weak - for,Weak - for
-,,High-risk,116,48,Very low,Weak - for,Weak - for
-,"Bleeding 
-requiring 
-reoperation",,20,,Very low,,
-"Open nephro-
-ureterectomy","Venous 
-thrombo-
-embolism",Low-risk,16,7.7,Very low,Weak - for,Weak - for
-,,Medium-risk,31,15,Very low,Weak - for,Weak - for
-,,High-risk,62,31,Very low,Weak - for,Weak - for
-,"Bleeding 
-requiring 
-reoperation",,0.5,,Very low,,
+"3.19.2.4	 Presentation  The most common symptom at presentation is haematuria; other less common symptoms include abdominal  pain, storage LUTS including frequency, dysuria and at times obstructive symptoms [1406].",
+Summary of evidence,LE
+Majority of paediatric patients have no identifiable risk factors for bladder tumours.,3
+There is no evidence on intravesical therapy for bladder tumours in children and adolescents.,4
+Prognosis of papillary tumours of the bladder in children is good overall.,3
+Inflammatory myofibroblastic bladder tumours are usually benign.,3
+Paediatric EC cases are in a third of cases associated with a history of allergic conditions and in 50%  with significant eosinophilia or eosinophiluria.,4
+Paediatric EC patients usually present with irritative and or obstructive urinary symptoms which can  mimic UTI or LUTS thereby leading to delayed diagnosis.,4
+In paediatric EC definitive diagnosis can only be attained on tissue biopsy obtained by cystoscopy.,4
+"In EC treatment with corticosteroids, antibiotics, anticholinergics, and antihistamines, in addition to  cyclosporine A have been utilised and lead to resolution of symptoms in most cases.",4
+No standard follow-up recommendations exist however surveillance is justified as recurrence has  been reported in about a third of patients.,4
+NA in children are rare benign lesions that usually occur in the setting of previous surgery or chronic  irritation of urinary tract and mainly occurring in the bladder.,4
+NA usually presents with haematuria and or storage LUTS and with a papillary/polypoid mass on seen  on cystoscopy.,4
+NA diagnosis is established by cystoscopy and histopathological review of biopsy specimen.,4
+"NA treatment is excision either by transurethral resection which often requires reresections, partial  cystectomy or open excision.",4
+NA recurrence rate is high thereby justifying regular follow-up.,4
